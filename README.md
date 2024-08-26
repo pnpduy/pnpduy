@@ -3,7 +3,7 @@
 
 ###
 
-- I am a senior studying Computer Science at the University of Science</p>
+- I recently graduated from the University of Sciences in Ho Chi Minh City with a bachelor's degree in Mathematics and Computer Science.</p>
 
 ###
 
